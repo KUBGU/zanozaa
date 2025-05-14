@@ -1,0 +1,1 @@
+// Catalog.jsx - placeholder content
